@@ -5,7 +5,7 @@
 <web-app>
   <servlet>
     <servlet-name>HelloWorld</servlet-name>
-    <servlet-class>HelloWorld</servlet-class>
+    <servlet-class>main.webapp.HelloWorld</servlet-class>
   </servlet>
 
   <servlet-mapping>
