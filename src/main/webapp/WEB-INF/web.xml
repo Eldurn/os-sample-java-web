@@ -10,7 +10,7 @@
 
   <servlet-mapping>
      <servlet-name>HelloWorld</servlet-name>
-     <url-pattern>/HelloWorld</url-pattern>
+     <url-pattern>/HelloWorldTest</url-pattern>
   </servlet-mapping>
 
   <display-name>Sample Java Web Application</display-name>
