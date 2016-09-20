@@ -1,4 +1,4 @@
-package main.webapp
+package main.webapp;
 
 // Import required java libraries
 import java.io.*;
