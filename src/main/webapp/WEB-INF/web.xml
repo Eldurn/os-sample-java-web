@@ -3,5 +3,15 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+  <servlet>
+    <servlet-name>HelloWorld</servlet-name>
+    <servlet-class>HelloWorld</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+     <servlet-name>HelloWorld</servlet-name>
+     <url-pattern>/HelloWorld</url-pattern>
+  </servlet-mapping>
+
   <display-name>Sample Java Web Application</display-name>
 </web-app>
